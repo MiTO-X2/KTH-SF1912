@@ -24,7 +24,7 @@ The course provides a theoretical foundation in probability theory, random varia
 
 
 Each folder contains a combination of:
-- `.ipynb` (Jupyter Notebooks) or `.m` (MATLAB) code  
+- `.ipynb` (Jupyter Notebooks)
 - `.pdf` reports explaining theory, methods, and results  
 - `.csv` datasets used for statistical analysis  
 
