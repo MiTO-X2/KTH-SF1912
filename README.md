@@ -9,7 +9,7 @@ The course provides a theoretical foundation in probability theory, random varia
 
 **Course:** SF1912 – Probability Theory and Statistics  
 **Institution:** KTH Royal Institute of Technology  
-**Language:** Python, MATLAB  
+**Language:** Python 
 **Topics Covered:**
 - Probability spaces and random variables  
 - Discrete and continuous probability distributions  
