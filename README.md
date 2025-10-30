@@ -22,14 +22,6 @@ The course provides a theoretical foundation in probability theory, random varia
 
 ---
 
-
-Each folder contains a combination of:
-- `.ipynb` (Jupyter Notebooks)
-- `.pdf` reports explaining theory, methods, and results  
-- `.csv` datasets used for statistical analysis  
-
----
-
 ## 🧩 Module Descriptions
 
 ### 🔹 Assignments/
@@ -50,7 +42,6 @@ Examples include:
 Each assignment includes:
 - Problem statement and questions  
 - Python code implementation  
-- PDF solution or summary  
 
 ---
 
@@ -58,26 +49,21 @@ Each assignment includes:
 Hands-on labs that use computational tools to explore probabilistic and statistical concepts.
 
 Key labs include:
-- **Lab 1: Monte Carlo Simulation**  
+- **Monte Carlo Simulation**  
   - Simulate random processes and approximate probabilities.  
   - Compare empirical results with theoretical expectations.  
 
-- **Lab 2: Central Limit Theorem (CLT)**  
+- **Central Limit Theorem (CLT)**  
   - Demonstrate CLT through repeated sampling and visualization.  
   - Code implemented in Jupyter Notebook or MATLAB.  
 
-- **Lab 3: Confidence Intervals and Hypothesis Tests**  
+- **Confidence Intervals and Hypothesis Tests**  
   - Statistical estimation using sample means and standard deviations.  
   - Visualization of test results using histograms and p-values.  
 
-- **Lab 4: Linear Regression**  
+- **Linear Regression**  
   - Fit linear models and evaluate correlation coefficients.  
   - Includes residual analysis and model validation.  
-
-Each lab folder includes:
-- `.ipynb` / `.m` source code  
-- `.pdf` report  
-- `.csv` dataset (if applicable)
 
 ---
 
@@ -90,24 +76,6 @@ Contains solved theoretical and computational exercises:
 - Independence and conditional probability proofs  
 - Expectation and variance formulas  
 - CLT applications  
-
-Useful for exam preparation and practice.
-
----
-
-### 🔹 Reports/
-Each report summarizes:
-- Experiment setup  
-- Theoretical background  
-- Simulation or computation steps  
-- Results, plots, and interpretations  
-- Conclusions and discussion  
-
-Common reports:
-- `Lab1_MonteCarlo.pdf`  
-- `Lab2_CLT.pdf`  
-- `Lab3_ConfidenceIntervals.pdf`  
-- `Lab4_Regression.pdf`
 
 ---
 
