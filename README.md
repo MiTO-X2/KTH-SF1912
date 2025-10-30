@@ -49,7 +49,7 @@ Examples include:
 
 Each assignment includes:
 - Problem statement and questions  
-- Python or MATLAB code implementation  
+- Python code implementation  
 - PDF solution or summary  
 
 ---
