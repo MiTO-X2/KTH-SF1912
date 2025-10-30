@@ -1,7 +1,7 @@
 # KTH-SF1912 – Probability Theory and Statistics
 
 This repository contains coursework, exercises, and projects for **SF1912 – Probability Theory and Statistics** at **KTH Royal Institute of Technology**.  
-The course provides a theoretical foundation in probability theory, random variables, and statistical inference, with practical applications using **Python**, **MATLAB**, and analytical problem-solving.
+The course provides a theoretical foundation in probability theory, random variables, and statistical inference, with practical applications using **Python**, and analytical problem-solving.
 
 ---
 
